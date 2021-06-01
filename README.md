@@ -1,11 +1,11 @@
 <h1>Image Processing Assignment</h1>
 install dependencies using following commands
-
-pip install numpy
-pip install matplotlib
-pip install opencv-python
-pip install Pillow
-
+<ol>
+ <li>pip install numpy</li>
+ <li>pip install matplotlib</li>
+ <li>pip install opencv-python</li>
+ <li>pip install Pillow</li>
+</ol>
 Input Image : burgur.jpg
 
 Temporary File : temp.py
